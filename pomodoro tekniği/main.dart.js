@@ -34729,7 +34729,7 @@ t.e=!1
 t.f="30 Dakikal\u0131k Mola";++t.z
 t.ap(new Q.Jg())},
 wI:function(){this.Q=P.RJ(P.cU(0,0,1),new Q.Jj(this))},
-J:function(a){var t,s,r,q,p,o,n,m=this,l=null,k=L.oa("POMODORO",A.eR(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l)),j=m.f
+J:function(a){var t,s,r,q,p,o,n,m=this,l=null,k=L.oa("Osman Alper \xc7AM\nPOMODORO",A.eR(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l)),j=m.f
 j=L.oa(j,A.eR(l,l,j==="\xc7ALI\u015eMA"?C.o_:C.ip,l,l,l,l,l,l,l,l,30,l,C.bV,l,l,!0,l,l,l,l,l,l))
 t=m.f
 if(t==="\xc7ALI\u015eMA"){t=m.d
